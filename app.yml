@@ -1,0 +1,9 @@
+name_list:
+  - demo
+  - taikoA5
+
+rpc_url_list:
+  - https://rpc.l3test.taiko.xyz
+  - https://rpc.jolnir.taiko.xyz/
+
+
